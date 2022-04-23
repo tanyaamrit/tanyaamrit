@@ -8,3 +8,6 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I can spend almost 12 hours browsing social media
 -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanyaamrit&theme=radical)
+
