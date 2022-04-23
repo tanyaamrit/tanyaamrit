@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Spotify Clone
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and polishing my Webdev skills
 - 📫 How to reach me: instagram- @tanyaamrit
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I can spend almost 12 hours browsing social media
